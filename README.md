@@ -63,7 +63,7 @@ Portfólio completo de testes de qualidade (QA) desenvolvido durante o bootcamp 
 
 ### Sprint 1: Testes Funcionais
 
-**🔗 [qa-sprint-1-testes-funcionais](https://github.com/ingridmatosn/qa-sprint-1-testes-funcionais)**
+**🔗 [qa-sprint-1-testes-funcionais](https://github.com/ingridmatosn/Qa-Sprint1-Testes-Funcionais)**
 
 **Objetivo**: Testes funcionais de aplicação web (Urban Routes)
 
@@ -85,7 +85,7 @@ Portfólio completo de testes de qualidade (QA) desenvolvido durante o bootcamp 
 
 ### Sprint 2: Design de Testes
 
-**🔗 [qa-sprint-2-design-testes](https://github.com/ingridmatosn/qa-sprint-2-design-testes)**
+**🔗 [qa-sprint-2-design-testes](https://github.com/ingridmatosn/QA-Sprint2-Design-de-Testes)**
 
 **Objetivo**: Aplicar técnicas de design de testes (BVA + Equivalence Partitioning)
 
@@ -109,7 +109,7 @@ Portfólio completo de testes de qualidade (QA) desenvolvido durante o bootcamp 
 
 ### Sprint 3: Testes Web Cross-Browser
 
-**🔗 [qa-sprint-3-testes-web](https://github.com/ingridmatosn/qa-sprint-3-testes-web)**
+**🔗 [qa-sprint-3-testes-web](https://github.com/ingridmatosn/Qa-Sprint3-Testes-Web)**
 
 **Objetivo**: Testes em múltiplos navegadores e resoluções
 
@@ -132,7 +132,7 @@ Portfólio completo de testes de qualidade (QA) desenvolvido durante o bootcamp 
 
 ### Sprint 4: Testes API REST
 
-**🔗 [qa-sprint-4-testes-api](https://github.com/ingridmatosn/qa-sprint-4-testes-api)**
+**🔗 [qa-sprint-4-testes-api](https://github.com/ingridmatosn/QA-Sprint4-Testes-API)**
 
 **Objetivo**: Testes completos de endpoints REST
 
@@ -156,7 +156,7 @@ Portfólio completo de testes de qualidade (QA) desenvolvido durante o bootcamp 
 
 ### Sprint 5: Testes Mobile
 
-**🔗 [qa-sprint-5-testes-mobile](https://github.com/ingridmatosn/qa-sprint-5-testes-mobile)**
+**🔗 [qa-sprint-5-testes-mobile](https://github.com/ingridmatosn/QA-Sprint5-Testes-Mobile)**
 
 **Objetivo**: Testes end-to-end de aplicativo móvel
 
@@ -185,7 +185,7 @@ Portfólio completo de testes de qualidade (QA) desenvolvido durante o bootcamp 
 
 ### Sprint 6: Terminal + Banco de Dados
 
-**🔗 [qa-sprint-6-terminal-database](https://github.com/ingridmatosn/qa-sprint-6-terminal-database)**
+**🔗 [qa-sprint-6-terminal-database](https://github.com/ingridmatosn/QA-Sprint6-Terminal-Database)**
 
 **Objetivo**: Aprender terminal e SQL com dados reais
 
@@ -305,12 +305,12 @@ Sprint 6: ██████████ 100% ✅
 
 | # | Sprint | Repositório | Link |
 |---|--------|-------------|------|
-| 1 | Testes Funcionais | qa-sprint-1-testes-funcionais | [github.com/ingridmatosn/qa-sprint-1-testes-funcionais](https://github.com/ingridmatosn/qa-sprint-1-testes-funcionais) |
-| 2 | Design de Testes | qa-sprint-2-design-testes | [github.com/ingridmatosn/qa-sprint-2-design-testes](https://github.com/ingridmatosn/qa-sprint-2-design-testes) |
-| 3 | Testes Web | qa-sprint-3-testes-web | [github.com/ingridmatosn/qa-sprint-3-testes-web](https://github.com/ingridmatosn/qa-sprint-3-testes-web) |
-| 4 | Testes API | qa-sprint-4-testes-api | [github.com/ingridmatosn/qa-sprint-4-testes-api](https://github.com/ingridmatosn/qa-sprint-4-testes-api) |
-| 5 | Testes Mobile | qa-sprint-5-testes-mobile | [github.com/ingridmatosn/qa-sprint-5-testes-mobile](https://github.com/ingridmatosn/qa-sprint-5-testes-mobile) |
-| 6 | Terminal + SQL | qa-sprint-6-terminal-database | [github.com/ingridmatosn/qa-sprint-6-terminal-database](https://github.com/ingridmatosn/qa-sprint-6-terminal-database) |
+| 1 | Testes Funcionais | qa-sprint-1-testes-funcionais | [github.com/ingridmatosn/qa-sprint-1-testes-funcionais](https://github.com/ingridmatosn/Qa-Sprint1-Testes-Funcionais) |
+| 2 | Design de Testes | qa-sprint-2-design-testes | [github.com/ingridmatosn/qa-sprint-2-design-testes](https://github.com/ingridmatosn/QA-Sprint2-Design-de-Testes) |
+| 3 | Testes Web | qa-sprint-3-testes-web | [github.com/ingridmatosn/qa-sprint-3-testes-web](https://github.com/ingridmatosn/Qa-Sprint3-Testes-Web) |
+| 4 | Testes API | qa-sprint-4-testes-api | [github.com/ingridmatosn/qa-sprint-4-testes-api](https://github.com/ingridmatosn/QA-Sprint4-Testes-API) |
+| 5 | Testes Mobile | qa-sprint-5-testes-mobile | [github.com/ingridmatosn/qa-sprint-5-testes-mobile](https://github.com/ingridmatosn/QA-Sprint5-Testes-Mobile) |
+| 6 | Terminal + SQL | qa-sprint-6-terminal-database | [github.com/ingridmatosn/qa-sprint-6-terminal-database](https://github.com/ingridmatosn/QA-Sprint6-Terminal-Database) |
 
 ---
 
