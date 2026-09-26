@@ -1,6 +1,6 @@
 # Portfólio de QA — Ingrid Matos
 
-Portfólio de testes manuais desenvolvido no bootcamp de **Analista de QA da TripleTen**, com seis projetos que cobrem teste funcional, design de teste, teste web cross-browser, teste de API REST, teste mobile e análise de logs com SQL.
+Portfólio de testes manuais e automatizados desenvolvido no bootcamp de **Analista de QA da TripleTen**, com sete projetos que cobrem teste funcional, design de teste, teste web cross-browser, teste de API REST, teste mobile, análise de logs com SQL e automação de testes web com Python e Selenium.
 
 Cada repositório traz os artefatos em Markdown, legíveis direto no navegador: casos de teste, checklists, classes de equivalência e relatórios de defeito com passos de reprodução.
 
@@ -14,10 +14,16 @@ Cada repositório traz os artefatos em Markdown, legíveis direto no navegador: 
 | 4 | API REST (Postman) | 70 casos de teste | 44 | [Ver projeto](https://github.com/ingridmatosn/QA-Sprint4-Testes-API) |
 | 5 | Mobile end-to-end (Urban Lunch) | 36 verificações | 6 | [Ver projeto](https://github.com/ingridmatosn/QA-Sprint5-Testes-Mobile) |
 | 6 | Terminal e banco de dados | 6 tarefas práticas | — | [Ver projeto](https://github.com/ingridmatosn/QA-Sprint6-Terminal-Database) |
+| 7 e 8 | Automação E2E (Python, Selenium, Pytest, POM) | 8 testes automatizados | — | [Ver projeto](https://github.com/ingridmatosn/QA-Brazil_Python_Automation) |
 
 **Totais:** 261 verificações registradas e **87 defeitos com identificador rastreável** no Jira (BR-001 a BR-005 e KAN-1 a KAN-83).
 
 ## Projetos em destaque
+
+### Automação de testes E2E — 8 testes, projeto aprovado
+[QA-Brazil_Python_Automation](https://github.com/ingridmatosn/QA-Brazil_Python_Automation)
+
+Automação do fluxo completo de pedido de táxi do app web Urban Routes com Python, Selenium WebDriver e Pytest, no padrão **Page Object Model**. Os testes cobrem rota, tarifa, cadastro de telefone com código SMS, cartão, comentário para o motorista, itens extras e o modal de busca de carro, usando esperas explícitas no lugar de pausas fixas.
 
 ### Testes de API REST — 70 casos, 44 defeitos
 [QA-Sprint4-Testes-API](https://github.com/ingridmatosn/QA-Sprint4-Testes-API)
@@ -38,11 +44,13 @@ Layout comparado ao design e validações do formulário de pagamento, em Chrome
 
 **Técnicas de teste:** partição de equivalência, análise de valor limite, teste funcional, teste de regressão, teste exploratório de layout, teste end-to-end.
 
+**Automação:** Python, Selenium WebDriver, Pytest e Page Object Model (POM).
+
 **Tipos de aplicação:** web, mobile e APIs REST.
 
 **Documentação:** casos de teste com pré-condição, etapas e resultado esperado; checklists por seção; relatórios de defeito com passos de reprodução, resultado esperado, resultado real e prioridade.
 
-**Ferramentas:** Jira, Postman, DevTools, emulador Android, Cygwin/Bash, PostgreSQL, Git e GitHub.
+**Ferramentas:** Jira, Postman, DevTools, emulador Android, Cygwin/Bash, PostgreSQL, Python, Selenium WebDriver, Pytest, PyCharm, Git e GitHub.
 
 ## Como este portfólio está organizado
 
